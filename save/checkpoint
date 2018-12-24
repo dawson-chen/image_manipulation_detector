@@ -1,0 +1,2 @@
+model_checkpoint_path: "MF_clf_model.ckpt"
+all_model_checkpoint_paths: "MF_clf_model.ckpt"
